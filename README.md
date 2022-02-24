@@ -1,4 +1,4 @@
-## Tic-Tac- Toe
+# Tic-Tac- Toe
  
  Satırda, sütunda ya da çapraz olarak 3 X ya da 3 O olmasını sağlayan oyuncu oyunu kazanır.
 
