@@ -1,6 +1,4 @@
-# hafta1-odev2-assignment-cigdemkocak-1
-
- ## Tic-Tac- Toe
+## Tic-Tac- Toe
  
  Satırda, sütunda ya da çapraz olarak 3 X ya da 3 O olmasını sağlayan oyuncu oyunu kazanır.
 
